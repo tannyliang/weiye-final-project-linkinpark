@@ -1,0 +1,628 @@
+.font-class-1 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  color               : var(--auto-palette-color-2);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  letter-spacing      : -0px;
+  line-height         : 30px;
+}
+:root {
+  --auto-palette-color-1: rgba(61,61,61,1.0);
+  --auto-palette-color-2: rgba(255,255,255,1.0);
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex3-n2Mab1 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 80px;
+  position            : relative;
+  width               : 323px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 166px;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .the-best-selling-ban-0t18tK {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(134,134,134,1.0);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  height              : auto;
+  left                : 250px;
+  letter-spacing      : -1px;
+  line-height         : 36px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 1098px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .line-EZo5EH {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-right        : 35.0px;
+  margin-top          : 4px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 81px;
+}
+.discography-web-NeSIXu .auto-flex10-eweEe1 .bitmap2-WVrJlk {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 372px;
+  margin-left         : 78px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-top          : -283px;
+  position            : relative;
+  width               : 1440px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1193px;
+  position            : relative;
+  width               : 1440px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex5-8ciQwz {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 80px;
+  position            : relative;
+  width               : 296px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-right        : 21.17px;
+  margin-top          : 44px;
+  position            : relative;
+  width               : 1281px;
+}
+.discography-web-NeSIXu .auto-flex10-eweEe1 .bitmap3-AqZPo4 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 372px;
+  margin-left         : 78px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .bitmap4-Yx9Xsq {
+  background-color    : rgba(255,255,255,0);
+  height              : 91px;
+  left                : 25px;
+  position            : absolute;
+  top                 : 303px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .d-iscography-NAoUOc {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  height              : auto;
+  left                : 454px;
+  letter-spacing      : 2px;
+  line-height         : 85px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 473px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .h-ome-Nv5gLi {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 676px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 318px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .m-erch-s03YUW {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 1105px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 318px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .a-bout-J7inVj {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 1253px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 318px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .best-albums-DYUU0q {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  height              : auto;
+  left                : 530px;
+  letter-spacing      : -5px;
+  line-height         : 108px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 927px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex1-j4fMaz .one-more-light2017-zltNVG {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 30px;
+  min-height          : 30px;
+  min-width           : 262px;
+  position            : relative;
+  text-align          : right;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex2-PZ16O9 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 16px;
+  position            : relative;
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex1-j4fMaz .a1-nobody-can-save-me-Cm1cuv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 44px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 283px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex7-4aLLQ6 .a320-taevin {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 9px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex7-4aLLQ6 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-bottom       : 1.0px;
+  margin-left         : 29px;
+  position            : relative;
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex4-KRzq5M .a333-49TN1M {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 11px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex4-KRzq5M .a555-w5DMKC {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 8px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex3-n2Mab1 .a1-keys-to-the-kingdo-0OmqXN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 44px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex5-8ciQwz .a1-lost-in-the-echo-gAF90R {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 44px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-2);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1024px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .rectangle1-Gwy9WG {
+  background-color    : rgba(255,255,255,0);
+  height              : 913px;
+  left                : 19px;
+  position            : absolute;
+  top                 : 280px;
+  transform           : rotate(0deg);
+  width               : 1400px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .bitmap-2gMFha {
+  background-color    : rgba(255,255,255,0);
+  height              : 809px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .label1-EPZpPl {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(24,24,24,1.0);
+  flex-shrink         : 0;
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : auto;
+  letter-spacing      : 2px;
+  line-height         : 22px;
+  margin-bottom       : 10px;
+  margin-right         : 40.17px;
+  margin-top          : 158px;
+  min-height          : 21px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 1272px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex5-8ciQwz .a3-burn-it-down-hS5x7f {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex5-8ciQwz .a2-in-my-remains-fa9rnw {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex3-n2Mab1 .a2-all-for-nothing-RehQLK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex1-j4fMaz .a3-talking-to-myself-RSSeR1 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 303px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex2-PZ16O9 .a345-KGKhAN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex4-KRzq5M .a338-0Sp53e {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex7-4aLLQ6 .a325-9iNaiX {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex7-4aLLQ6 .a351-fMtUDV {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 9px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex10-eweEe1 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 372px;
+  justify-content     : flex-start;
+  margin-right        : 30.0px;
+  margin-top          : 122px;
+  position            : relative;
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex1-j4fMaz {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 311px;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .m-edia-YCyWeP {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 969px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 318px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex-qvOk6k .overlap-group-xWl4nR .a-lbums-wH3IvP {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 808px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 318px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 166px;
+  justify-content     : flex-start;
+  margin-right        : 8.83px;
+  position            : relative;
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex2-PZ16O9 .a331-DhrbhN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex2-PZ16O9 .a3511-GbYcqn {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex3-n2Mab1 .the-hunting-party2-3cb5Ll {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 30px;
+  min-height          : 30px;
+  min-width           : 289px;
+  position            : relative;
+  text-align          : right;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex5-8ciQwz .living-things2012-4CRW3X {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 30px;
+  min-height          : 30px;
+  min-width           : 235px;
+  position            : relative;
+  text-align          : right;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.discography-web-NeSIXu .auto-flex10-eweEe1 .bitmap1-0Su1f6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 372px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex4-KRzq5M {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 2px;
+  position            : relative;
+  width               : 45px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex3-n2Mab1 .a3-guilty-all-the-sam-MPrNbd {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 289px;
+}
+.discography-web-NeSIXu .auto-flex9-1AsHq9 .auto-flex8-3WjGj8 .auto-flex6-YHVHK7 .auto-flex1-j4fMaz .a2-good-goodbye-ft-p-vhJfSG {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 24px;
+  margin-top          : 10px;
+  min-height          : 24px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 303px;
+}

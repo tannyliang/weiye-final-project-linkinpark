@@ -1,0 +1,386 @@
+.font-class-1 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  color               : var(--auto-palette-color-2);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 16px;
+  letter-spacing      : -0px;
+  line-height         : 30px;
+}
+:root {
+  --auto-palette-color-1: rgba(61,61,61,1.0);
+  --auto-palette-color-2: rgba(255,255,255,1.0);
+}
+.about-web-n8UBpK .overlap-group-opnNc7 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 810px;
+  margin-right        : 1.0px;
+  margin-top          : -122px;
+  position            : relative;
+  width               : 1441px;
+}
+.about-web-n8UBpK .auto-flex2-axJbti {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 117px;
+  justify-content     : flex-start;
+  margin-left         : 64.0px;
+  margin-top          : 22px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex3-4LjpPD {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 113px;
+  justify-content     : flex-start;
+  margin-left         : 64.0px;
+  margin-top          : 26px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex4-YSTNs6 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 109px;
+  justify-content     : flex-start;
+  margin-left         : 64.0px;
+  margin-top          : 85px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex5-DzV6Cx {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 606px;
+  justify-content     : flex-start;
+  margin-right        : 38.0px;
+  margin-top          : 73px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex-nIA0Nk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 101px;
+  justify-content     : flex-start;
+  margin-left         : 64.0px;
+  margin-top          : 38px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex1-46DsKw {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 109px;
+  justify-content     : flex-start;
+  margin-left         : 64.0px;
+  margin-top          : 30px;
+  position            : relative;
+  width               : auto;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .a-lbums-vk18Ck {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 824px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 157px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .m-erch-ICD9XN {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 1111px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 157px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .a-bout1-GCOyCj {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 1254px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 157px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .auto-flex1-46DsKw .bitmap4-3ZS6vt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 79px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 79px;
+}
+.about-web-n8UBpK .auto-flex-nIA0Nk .bitmap5-ccu8rX {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 79px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 79px;
+}
+.about-web-n8UBpK .auto-flex5-DzV6Cx .formed-in1996-link-bJvdcE {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 50px;
+  min-height          : 606px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 440px;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .bitmap6-sbguYg {
+  background-color    : rgba(255,255,255,0);
+  height              : 91px;
+  left                : 26px;
+  position            : absolute;
+  top                 : 142px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.about-web-n8UBpK .auto-flex5-DzV6Cx .bitmap7-kVtIlv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 592px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 788px;
+}
+.about-web-n8UBpK .auto-flex1-46DsKw .label5-3z34pS {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 200px;
+  min-height          : 94px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 668px;
+}
+.about-web-n8UBpK .auto-flex-nIA0Nk .label6-LypQCx {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 200px;
+  min-height          : 94px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 668px;
+}
+.about-web-n8UBpK {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-2);
+  box-sizing          : border-box;
+  display             : flex;
+  font-size           : 20.0px;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1024px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.about-web-n8UBpK .label1-BKYU2e {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(24,24,24,1.0);
+  flex-shrink         : 0;
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : auto;
+  letter-spacing      : 2px;
+  line-height         : 22px;
+  margin-bottom       : 10px;
+  margin-right        : 40.17px;
+  margin-top          : 158px;
+  min-height          : 21px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 1272px;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .bitmap-1Uuo8s {
+  background-color    : rgba(255,255,255,0);
+  height              : 810px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1441px;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .a-bout-WbSMuT {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  height              : auto;
+  left                : 589px;
+  letter-spacing      : 2px;
+  line-height         : 85px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 378px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .m-edia-feB9fC {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 980px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 157px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .overlap-group-opnNc7 .h-ome-770Y54 {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 697px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 157px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .m-ilestones-Fpmjin {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : "HelveticaNeue", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  height              : auto;
+  letter-spacing      : -5px;
+  line-height         : 108px;
+  margin-right        : 74.8px;
+  margin-top          : 56px;
+  min-height          : 108px;
+  min-width           : 523px;
+  position            : relative;
+  text-align          : right;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.about-web-n8UBpK .linkin-park-is-an-am-S4Q4F8 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-right        : 57.0px;
+  margin-top          : 56px;
+  min-height          : 426px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 1259px;
+}
+.about-web-n8UBpK .auto-flex4-YSTNs6 .bitmap1-HmUKnf {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 79px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 79px;
+}
+.about-web-n8UBpK .auto-flex3-4LjpPD .bitmap2-eZ2Osv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 79px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 79px;
+}
+.about-web-n8UBpK .auto-flex2-axJbti .bitmap3-dQhZ9p {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 79px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 79px;
+}
+.about-web-n8UBpK .auto-flex4-YSTNs6 .label2-1Juw9r {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 200px;
+  min-height          : 94px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 668px;
+}
+.about-web-n8UBpK .auto-flex3-4LjpPD .label3-kzaj3K {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 200px;
+  min-height          : 94px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 668px;
+}
+.about-web-n8UBpK .auto-flex2-axJbti .label4-bj6uHm {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 40px;
+  margin-left         : 200px;
+  min-height          : 94px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 668px;
+}
