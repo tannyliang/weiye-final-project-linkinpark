@@ -9,6 +9,77 @@
   letter-spacing      : -0px;
   line-height         : 30px;
 }
+.wrapper {
+width: 100%;
+}
+
+.bitmap-1Uuo8s {
+  display: none;
+}
+.a-bout-WbSMuT {
+font-size           : 50.0px;
+text-align          : center;
+}
+.about-web-n8UBpK .auto-flex5-DzV6Cx .bitmap7-kVtIlv {
+  background-color    : rgba(255,255,255,0);
+  height              : 520px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 520px;
+  margin-top: -180px;
+}
+.m-ilestones-Fpmjin {
+font-size           : 40.0px;
+line-height         : 250px;
+text-align          : center;
+}
+.label1-BKYU2e {
+font-size           : 12.0px;
+margin-top          : 30px;
+text-align: center;
+}
+.about-web-n8UBpK .auto-flex1-46DsKw .bitmap4-3ZS6vt {
+  height              : 60px;
+  position            : relative;
+  width               : 60px;
+  margin-top          : 10px;
+  margin-bottom       : 10px;
+}
+.about-web-n8UBpK .auto-flex-nIA0Nk .bitmap5-ccu8rX {
+  height              : 60px;
+  position            : relative;
+  width               : 60px;
+  margin-top          : 10px;
+  margin-bottom       : 10px;
+}
+.about-web-n8UBpK .auto-flex4-YSTNs6 .bitmap1-HmUKnf {
+  height              : 60px;
+  position            : relative;
+  width               : 60px;
+  margin-top          : 10px;
+  margin-bottom       : 10px;
+}
+.about-web-n8UBpK .auto-flex2-axJbti .bitmap3-dQhZ9p {
+  height              : 60px;
+  position            : relative;
+  width               : 60px;
+  margin-top          : 10px;
+  margin-bottom       : 10px;
+}
+.about-web-n8UBpK .auto-flex3-4LjpPD .bitmap2-eZ2Osv {
+  height              : 60px;
+  position            : relative;
+  width               : 60px;
+  margin-top          : 10px;
+  margin-bottom       : 10px;
+}
+
+@media only screen and (min-width:1000px) {
+.bitmap-1Uuo8s {
+  display: block;
+  width: 100%;
+  padding-bottom: 30px;
+}
 :root {
   --auto-palette-color-1: rgba(61,61,61,1.0);
   --auto-palette-color-2: rgba(255,255,255,1.0);
@@ -139,18 +210,18 @@
 .about-web-n8UBpK .auto-flex1-46DsKw .bitmap4-3ZS6vt {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 79px;
+  height              : 60px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 79px;
+  width               : 60px;
 }
 .about-web-n8UBpK .auto-flex-nIA0Nk .bitmap5-ccu8rX {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 79px;
+  height              : 60px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 79px;
+  width               : 60px;
 }
 .about-web-n8UBpK .auto-flex5-DzV6Cx .formed-in1996-link-bJvdcE {
   background-color    : rgba(255,255,255,0);
@@ -229,7 +300,7 @@
   color               : rgba(24,24,24,1.0);
   flex-shrink         : 0;
   font-family         : "HelveticaNeue", Helvetica, Arial, serif;
-  font-size           : 18.0px;
+  font-size           : 15.0px;
   height              : auto;
   letter-spacing      : 2px;
   line-height         : 22px;
@@ -321,26 +392,26 @@
 .about-web-n8UBpK .auto-flex4-YSTNs6 .bitmap1-HmUKnf {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 79px;
+  height              : 60px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 79px;
+  width               : 60px;
 }
 .about-web-n8UBpK .auto-flex3-4LjpPD .bitmap2-eZ2Osv {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 79px;
+  height              : 60px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 79px;
+  width               : 60px;
 }
 .about-web-n8UBpK .auto-flex2-axJbti .bitmap3-dQhZ9p {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 79px;
+  height              : 60px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 79px;
+  width               : 60px;
 }
 .about-web-n8UBpK .auto-flex4-YSTNs6 .label2-1Juw9r {
   align-self          : flex-end;
