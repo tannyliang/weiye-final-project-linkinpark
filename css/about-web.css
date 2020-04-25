@@ -366,12 +366,12 @@ text-align: center;
   height              : auto;
   letter-spacing      : -5px;
   line-height         : 108px;
-  margin-right        : 74.8px;
+  margin-right        : 70px;
   margin-top          : 56px;
   min-height          : 108px;
   min-width           : 523px;
   position            : relative;
-  text-align          : right;
+  text-align          : center;
   transform           : rotate(0deg);
   width               : auto;
 }
