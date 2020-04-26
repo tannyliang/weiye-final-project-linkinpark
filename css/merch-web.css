@@ -1,6 +1,3 @@
-
-
-/* ANIMA screen - merch-web */
 .font-class-1 {
   color               : var(--auto-palette-color-1);
   font-family         : "HelveticaNeue-Light", Helvetica, Arial, serif;
@@ -23,6 +20,80 @@
   --auto-palette-color-1: rgba(61,61,61,1.0);
   --auto-palette-color-2: rgba(255,255,255,1.0);
 }
+.wrapper {
+width: 100%;
+}
+.bitmap-Ftrkby {
+  display:none;
+}
+.label1-w16sB3 {
+  font-size           : 12.0px;
+  margin-top          : 30px;
+  text-align: center;
+}
+.bitmap1-kOAIbn {
+  display: none;
+}
+.label2-NwRfqf {
+  font-family         : "HelveticaNeue-medium";
+  font-size           : 80.0px;
+  text-align          : center;
+  margin-top: 40px;
+  margin-bottom : 20px;
+}
+.accessories-mTO1Jr {
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  font-size           : 40px;
+  position            : relative;
+  text-align          : center;
+  letter-spacing      : -1px;
+}
+.headwear-VcfFnx {
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-top          : 40px;
+  font-size           : 40px;
+  position            : relative;
+  text-align          : center;
+  letter-spacing      : -1px;
+}
+.tour-dates-hIDjta {
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  font-size           : 40px;
+  margin-top          : 40px;
+  position            : relative;
+  text-align          : center;
+  letter-spacing      : -1px;
+}
+.bitmap3-4U5RyM {
+  margin-left: 70px;
+}
+.bitmap4-TcFe3d {
+  margin-left: 80px;
+}
+.bitmap5-K8qnNA {
+  margin-left: 80px;
+}
+@media only screen and (min-width:812px) {
+.bitmap-Ftrkby {
+  display: block;
+  width: 100%;
+  padding-bottom: 30px;
+}
+@media only screen and (min-width:812px) {
+.bitmap1-kOAIbn {
+  display: block;
+  width: 100%;
+  padding-bottom: 30px;
+}
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex4-lywQLA {
   align-items         : center;
   background-color    : rgba(255,255,255,0);
@@ -42,7 +113,7 @@
   font-size           : 20.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 318px;
+  margin-left         : 290px;
   min-height          : 24px;
   min-width           : 140px;
   position            : relative;
@@ -54,11 +125,14 @@
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : auto;
+  font-size           : 60px;
+  letter-spacing      : -1px;
   margin-top          : 144px;
+  margin-left         : -130px;
   min-height          : 108px;
   min-width           : 379px;
   position            : relative;
-  text-align          : right;
+  text-align          : center;
   transform           : rotate(0deg);
   width               : auto;
 }
@@ -66,21 +140,24 @@
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : auto;
-  margin-left         : 73.37px;
+  font-size           : 60px;
+  letter-spacing      : -1px;
+  margin-left         : -100px;
   min-height          : 108px;
   min-width           : 391px;
+  margin-bottom       : 60px;
   position            : relative;
-  text-align          : right;
+  text-align          : center;
   transform           : rotate(0deg);
   width               : auto;
 }
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex5-5TN9Jb .a45001-0OoQuP {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
-  margin-right        : 49.2px;
+  margin-right        : 100px;
   min-height          : 56px;
   min-width           : 150px;
   position            : relative;
@@ -91,10 +168,10 @@
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex6-ATLQO0 .a45002-KdSqCa {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
-  margin-left         : 2.0px;
+  margin-left         : -25px;
   min-height          : 56px;
   min-width           : 150px;
   position            : relative;
@@ -109,7 +186,7 @@
   font-size           : 20.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 371px;
+  margin-left         : 355px;
   margin-top          : 1.0px;
   min-height          : 24px;
   min-width           : 219px;
@@ -126,6 +203,7 @@
   line-height         : 24.0px;
   margin-bottom       : -1px;
   margin-top          : 79px;
+  margin-left         : -20px;
   min-height          : 23px;
   position            : relative;
   text-align          : right;
@@ -136,7 +214,7 @@
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 195px;
-  margin-left         : 5.0px;
+  margin-left         : -5px;
   margin-top          : 422px;
   position            : relative;
   transform           : rotate(0deg);
@@ -149,7 +227,7 @@
   height              : auto;
   line-height         : 24.0px;
   margin-bottom       : -1px;
-  margin-left         : 20.0px;
+  margin-left         : 40.0px;
   margin-top          : 50px;
   min-height          : 23px;
   position            : relative;
@@ -164,7 +242,7 @@
   height              : auto;
   line-height         : 24.0px;
   margin-bottom       : -1px;
-  margin-right        : 64.2px;
+  margin-right        : 90px;
   margin-top          : 80px;
   min-height          : 23px;
   position            : relative;
@@ -202,10 +280,10 @@
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex5-5TN9Jb .a35001-8CwWv0 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
-  margin-right        : 63.2px;
+  margin-right        : 120px;
   margin-top          : 80px;
   min-height          : 56px;
   min-width           : 150px;
@@ -217,10 +295,10 @@
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex6-ATLQO0 .a35002-aLLpEx {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
-  margin-left         : 20.0px;
+  margin-left         : -30px;
   margin-top          : 79px;
   min-height          : 56px;
   min-width           : 150px;
@@ -381,22 +459,23 @@
   color               : rgba(24,24,24,1.0);
   flex-shrink         : 0;
   font-family         : "HelveticaNeue", Helvetica, Arial, serif;
-  font-size           : 18.0px;
+  font-size           : 15.0px;
   height              : auto;
-  letter-spacing      : 1.83px;
+  letter-spacing      : 2px;
   line-height         : 22.0px;
-  margin-bottom       : -1px;
-  margin-top          : 542px;
+  margin-bottom       : 10px;
+  margin-left         : -90px;
+  margin-top          : 158px;
   min-height          : 21px;
   position            : relative;
-  text-align          : left;
+  text-align          : center;
   transform           : rotate(0deg);
   width               : 1272px;
 }
 .merch-web-7f35SR .auto-flex2-Esy7wt .overlap-group-4gKnnR .m-erch-O4EbVM {
   background-color    : rgba(255,255,255,0);
   height              : auto;
-  left                : 1201px;
+  left                : 1140px;
   position            : absolute;
   text-align          : left;
   top                 : 465px;
@@ -406,7 +485,7 @@
 .merch-web-7f35SR .auto-flex2-Esy7wt .overlap-group-4gKnnR .a-bout-i6gnfw {
   background-color    : rgba(255,255,255,0);
   height              : auto;
-  left                : 1330px;
+  left                : 1290px;
   position            : absolute;
   text-align          : left;
   top                 : 464px;
@@ -416,7 +495,7 @@
 .merch-web-7f35SR .auto-flex2-Esy7wt .overlap-group-4gKnnR .m-edia-GuM4xr {
   background-color    : rgba(255,255,255,0);
   height              : auto;
-  left                : 1084px;
+  left                : 1000px;
   position            : absolute;
   text-align          : left;
   top                 : 465px;
@@ -426,7 +505,7 @@
 .merch-web-7f35SR .auto-flex2-Esy7wt .overlap-group-4gKnnR .a-lbums-HbR1XI {
   background-color    : rgba(255,255,255,0);
   height              : auto;
-  left                : 942px;
+  left                : 840px;
   position            : absolute;
   text-align          : left;
   top                 : 464px;
@@ -436,7 +515,7 @@
 .merch-web-7f35SR .auto-flex2-Esy7wt .overlap-group-4gKnnR .h-ome-O3kBFQ {
   background-color    : rgba(255,255,255,0);
   height              : auto;
-  left                : 829px;
+  left                : 700px;
   position            : absolute;
   text-align          : left;
   top                 : 464px;
@@ -456,7 +535,7 @@
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   font-family         : "HelveticaNeue", Helvetica, Arial, serif;
-  font-size           : 110.0px;
+  font-size           : 70.0px;
   height              : auto;
   left                : 578px;
   letter-spacing      : 0.00px;
@@ -472,12 +551,14 @@
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : auto;
-  margin-right        : 67.8px;
+  font-size           : 60px;
+  margin-right        : 240px;
   margin-top          : 82px;
   min-height          : 108px;
   min-width           : 443px;
   position            : relative;
-  text-align          : right;
+  text-align          : center;
+  letter-spacing      : -1px;
   transform           : rotate(0deg);
   width               : auto;
 }
@@ -497,7 +578,7 @@
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex4-lywQLA .a4500-PsPJSi {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
   margin-right        : 3.0px;
@@ -511,7 +592,7 @@
 .merch-web-7f35SR .auto-flex7-5GLrzC .auto-flex4-lywQLA .a3500-Cfj9BG {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 45.0px;
+  font-size           : 35.0px;
   height              : auto;
   line-height         : 55.0px;
   margin-left         : 25.0px;
@@ -522,104 +603,4 @@
   text-align          : right;
   transform           : rotate(0deg);
   width               : auto;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
 }
